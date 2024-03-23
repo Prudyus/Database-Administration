@@ -1,5 +1,5 @@
 # TASK Database Administration
- PART 1
+ # PART 1
 1. Download MySQL server for your OS on VM.
 2. Install MySQL server on VM.
 3. Select a subject area and describe the database schema, (minimum 3 tables)
@@ -10,7 +10,7 @@
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 9. Make a selection from the main table DB MySQL.
 
- PART 2
+ # PART 2
 10. Make backup of your database.
 11. Delete the table and/or part of the data in the table.
 12. Restore your database.
