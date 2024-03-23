@@ -1,5 +1,37 @@
+# TASK DB1
+PART 1
+1. Download MySQL server for your OS on VM.
+2. Install MySQL server on VM.
+3. Select a subject area and describe the database schema, (minimum 3 tables)
+4. Create a database on the server through the console.
+5. Fill in tables.
+6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
+7. Execute other different SQL queries DDL, DML, DCL.
+8. Create a database of new users with different privileges. Connect to the 
+database as a new user and verify that the privileges allow or deny certain 
+actions.
+9. Make a selection from the main table DB MySQL.
+PART 2
+10.Make backup of your database.
+11.Delete the table and/or part of the data in the table.
+12.Restore your database.
+13.Transfer your local database to RDS AWS.
+14.Connect to your database.
+15.Execute SELECT operator similar step 6.
+16.Create the dump of your database.
+PART 3 – MongoDB
+17. Create a database. Use the use command to connect to a new database (If it 
+doesn't exist, Mongo will create it when you write to it).
+18. Create a collection. Use db.createCollection to create a collection. I'll leave the 
+subject up to you. Run show dbs and show collections to view your database and 
+collections.
+19. Create some documents. Insert a couple of documents into your collection. I'll 
+leave the subject matter up to you, perhaps cars or hats.
+20. Use find() to list documents out
+
+#Solutions
 # Database-Administration
-EPAM University Programs DevOps L1 course Database Administratio
+EPAM University Programs DevOps course Database Administration
 
 ![Screenshot from 2022-10-30 13-19-13](https://user-images.githubusercontent.com/102302310/213526592-0f6b2c99-7790-4025-a33b-7bf7e773a9a6.png)
 ![Screenshot from 2022-10-31 22-58-00](https://user-images.githubusercontent.com/102302310/213527132-d90637ff-9565-4780-b35d-bc1edc3b4a88.png)
